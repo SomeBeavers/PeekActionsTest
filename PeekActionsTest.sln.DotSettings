@@ -5,4 +5,10 @@
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=76FC8980D59BD64BBBBEBCBE7BD3945B/Name/@EntryValue">URL</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=76FC8980D59BD64BBBBEBCBE7BD3945B/Pattern/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;[A-Z]+\-\d+)(\W|$)(.*)</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=76FC8980D59BD64BBBBEBCBE7BD3945B/TodoIconStyle/@EntryValue">Question</s:String>
-	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=76FC8980D59BD64BBBBEBCBE7BD3945B/UrlPattern/@EntryValue">https://youtrack.jetbrains.com/issue/${TAG}</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=76FC8980D59BD64BBBBEBCBE7BD3945B/UrlPattern/@EntryValue">https://youtrack.jetbrains.com/issue/${TAG}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EE55528156700A4897A79356CC63525D/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EE55528156700A4897A79356CC63525D/MatchComments/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EE55528156700A4897A79356CC63525D/Name/@EntryValue">URL to google</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EE55528156700A4897A79356CC63525D/Pattern/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;Google \#(?&lt;ISSUE_ID&gt;\d+))(\W|$)(.*)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EE55528156700A4897A79356CC63525D/TodoIconStyle/@EntryValue">Normal</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=EE55528156700A4897A79356CC63525D/UrlPattern/@EntryValue">https://www.google.com/</s:String></wpf:ResourceDictionary>
