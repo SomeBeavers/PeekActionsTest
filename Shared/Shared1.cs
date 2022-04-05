@@ -10,10 +10,11 @@ namespace Shared
         {
             return base.Equals(obj);
         }
-
+        
         public string Method1(string method1)
         {
-            new Shared2();
+            var shared2 = new Shared2();
+            shared2.Method2();
             return method1;
         }
     }
