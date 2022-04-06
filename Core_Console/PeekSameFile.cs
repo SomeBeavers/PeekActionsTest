@@ -8,7 +8,7 @@ namespace Core_Console
         {
             Console.WriteLine("Test2");
             Test2();
-
+            // comment
             new PeekDifferentFile().Name_Renamed = "";
             new PeekDifferentFile().Name_Renamed = "";
             new PeekDifferentFile().Name_Renamed = "";
