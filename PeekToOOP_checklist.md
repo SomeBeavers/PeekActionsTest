@@ -1,0 +1,105 @@
+# Peek actions to OOP
+
+- [x]  VS
+    - [x]  2022 Preview
+    - [x]  2022
+    - [x]  2019
+    - [x]  2017
+    - [x]  2015
+    - [x]  2013
+    - [x]  2012
+    - [x]  2010
+- [x]  project
+    - [x]  core
+    - [x]  framework
+    - [x]  shared
+    - [x]  multi
+- [x]  language
+    - [x]  C#
+    - [x]  VB
+    - [x]  js
+    - [x]  ts
+    - [x]  C++
+    - [x]  css
+        - [x]  color underline
+    - [x]  razor
+- [x]  Peek  in navigations
+    - [x]  usages
+    - [x]  base
+    - [x]  declarations
+    - [x]  implementations
+    - [x]  VS peek definition: [https://www.jetbrains.com/help/resharper/Navigation_and_Search__Peek_Definition.html](https://www.jetbrains.com/help/resharper/Navigation_and_Search__Peek_Definition.html)
+- [x]  Peek in todo
+    - [x]  [https://blog.jetbrains.com/dotnet/2018/01/12/linking-external-resources-resharper-items/](https://blog.jetbrains.com/dotnet/2018/01/12/linking-external-resources-resharper-items/)
+- [x]  Peek view
+    - [x]  no results
+    - [x]  highlighting
+    - [x]  error indicator
+        - [x]  click to navigate to next error/warning
+        - [x]  right click → change options
+    - [x]  error stripe
+    - [x]  bulb
+        - [x]  hammer
+            - [x]  apply CA
+        - [x]  bulb
+            - [x]  error
+            - [x]  warning
+            - [x]  apply QF
+        - [x]  UT
+            - [x]  run test
+        - [x]  hierarchy
+            - [x]  navigate
+        - [x]  change placing in ReSharper → Options
+        - [x]  bookmark
+        - [x]  todo
+    - [x]  navigation
+        - [x]  in same file
+        - [x]  to another file
+    - [x]  refactorings
+        - [x]  delete file opened in Peek
+        - [x]  inplace rename
+        - [x]  local rename
+        - [x]  regular rename
+            - [x]  class with file name
+            - [x]  class
+    - [x]  live templates
+    - [x]  undo
+    - [x]  typing
+        - [x]  before first line
+        - [x]  after last line
+        - [x]  at the bottom of visible view ⇒ auto scroll
+    - [x]  scroll
+    - [x]  completion
+    - [x]  tooltip
+    - [x]  inlay hint
+    - [x]  code cleanup
+        - [x]  manual
+        - [x]  cleanup on save
+    - [x]  dotcover underline in code
+    - [x]  code generation
+    - [x]  quick doc
+    - [x]  parameter info
+    - [x]  smart copy paste: [https://www.jetbrains.com/help/resharper/Smart_Paste.html](https://www.jetbrains.com/help/resharper/Smart_Paste.html)
+- [x]  actions with Peek view
+    - [x]  open in regular tab
+    - [x]  close `Esc`
+    - [x]  switch to editor `Shift + Esc`
+    - [x]  open new one
+    - [x]  select another file on the right
+- [x]  show
+    - [x]  local code
+        - [x]  same file
+        - [x]  another file
+            - [x]  opened
+            - [x]  closed
+    - [x]  decompiled code
+    - [x]  from nuget
+- [x]  open from
+    - [x]  regular tab
+    - [x]  floating tab
+    - [x]  split tab
+    - [x]  preview tab
+    - [x]  refactoring’s FU ?
+- [x]  navigate to
+    - [x]  Find Usages
+    - [x]  ctrl + click → Show usages
